@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1346348725 source:c:\users\tsunami33\desktop\prog.c\zplus by tsunami33\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
